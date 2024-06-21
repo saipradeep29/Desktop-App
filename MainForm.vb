@@ -1,4 +1,4 @@
-﻿Imports Newtonsoft.Json
+Imports Newtonsoft.Json
 Imports System.Net.Http
 Imports System.Text
 
